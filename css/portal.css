@@ -4,8 +4,8 @@
 
 html { 
     /* font-family: 'Quicksand', sans-serif;  */
-    background-color: #00AEEF; 
-    font-family: 'Eczar', sans-serif;
+    background-color: #241d7e; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -30,7 +30,7 @@ h1.logo{
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(204, 208, 209);
     overflow: auto;
 }
 
